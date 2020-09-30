@@ -1,4 +1,4 @@
-# DISCORD BOT WRITTEN IN NODE JS
+# Discord bot written in Node.js
 
 ### Main functionalities
 
