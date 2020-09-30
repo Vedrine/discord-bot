@@ -1,9 +1,9 @@
 # Discord bot written in Node.js
 
-### Main functionalities
+- Main functionalities
 
-#### Message translation using IBM Watson API
+- Message translation using IBM Watson API
 
-#### GIF based on user input using GIPHY API
+- GIF based on user input using GIPHY API
 
-#### Get the user avatar
+- Get the user avatar
